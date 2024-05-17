@@ -8,7 +8,9 @@ The dataset can be downloaded from https://github.com/Jasper-Wu/FILT Unzip it to
 To install the various python dependences (including tensorflow)
 
 python 3.9
+
 cuda 11.3
+
 pytorch 1.12
 
 >
